@@ -11,3 +11,6 @@ dependencies:
   - rasterio
   - pyepsg
   - folium
+  - ipympl
+
+
